@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Xy8JUSQWkRzox/RdV5+1W/TptcN+BPISsGJTN0GKozKPeDXS/Xcisnu/OeUFT/GDZRC6fXEEQIRgTJSlJMMQSw==",
+  "dgSpecHash": "PBENKJNoosD1TYPK9C1gnh9rQG6Um+RcFQLt7WXnNxpa+YOYZ1aTMHO+1poLECGi6nEYTfMOiMsJ3PtKC6rDJw==",
   "success": true,
-  "projectFilePath": "D:\\MyTutorials\\MoonSharpConsoleApps\\_01_getting_started\\LaunchAndExecuteMoonSharp\\LaunchAndExecuteMoonSharp\\LaunchAndExecuteMoonSharp.csproj",
+  "projectFilePath": "D:\\MyTutorials\\MoonSharpTutorialSeries\\_01_getting_started\\LaunchAndExecuteMoonSharp\\LaunchAndExecuteMoonSharp\\LaunchAndExecuteMoonSharp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\McLo\\.nuget\\packages\\moonsharp\\2.0.0\\moonsharp.2.0.0.nupkg.sha512"
   ],

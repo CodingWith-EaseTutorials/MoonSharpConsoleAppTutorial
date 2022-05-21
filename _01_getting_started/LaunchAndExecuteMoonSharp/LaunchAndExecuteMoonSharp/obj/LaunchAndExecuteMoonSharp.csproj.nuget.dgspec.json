@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\MyTutorials\\MoonSharpConsoleApps\\_01_getting_started\\LaunchAndExecuteMoonSharp\\LaunchAndExecuteMoonSharp\\LaunchAndExecuteMoonSharp.csproj": {}
+    "D:\\MyTutorials\\MoonSharpTutorialSeries\\_01_getting_started\\LaunchAndExecuteMoonSharp\\LaunchAndExecuteMoonSharp\\LaunchAndExecuteMoonSharp.csproj": {}
   },
   "projects": {
-    "D:\\MyTutorials\\MoonSharpConsoleApps\\_01_getting_started\\LaunchAndExecuteMoonSharp\\LaunchAndExecuteMoonSharp\\LaunchAndExecuteMoonSharp.csproj": {
+    "D:\\MyTutorials\\MoonSharpTutorialSeries\\_01_getting_started\\LaunchAndExecuteMoonSharp\\LaunchAndExecuteMoonSharp\\LaunchAndExecuteMoonSharp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\MyTutorials\\MoonSharpConsoleApps\\_01_getting_started\\LaunchAndExecuteMoonSharp\\LaunchAndExecuteMoonSharp\\LaunchAndExecuteMoonSharp.csproj",
+        "projectUniqueName": "D:\\MyTutorials\\MoonSharpTutorialSeries\\_01_getting_started\\LaunchAndExecuteMoonSharp\\LaunchAndExecuteMoonSharp\\LaunchAndExecuteMoonSharp.csproj",
         "projectName": "LaunchAndExecuteMoonSharp",
-        "projectPath": "D:\\MyTutorials\\MoonSharpConsoleApps\\_01_getting_started\\LaunchAndExecuteMoonSharp\\LaunchAndExecuteMoonSharp\\LaunchAndExecuteMoonSharp.csproj",
+        "projectPath": "D:\\MyTutorials\\MoonSharpTutorialSeries\\_01_getting_started\\LaunchAndExecuteMoonSharp\\LaunchAndExecuteMoonSharp\\LaunchAndExecuteMoonSharp.csproj",
         "packagesPath": "C:\\Users\\McLo\\.nuget\\packages\\",
-        "outputPath": "D:\\MyTutorials\\MoonSharpConsoleApps\\_01_getting_started\\LaunchAndExecuteMoonSharp\\LaunchAndExecuteMoonSharp\\obj\\",
+        "outputPath": "D:\\MyTutorials\\MoonSharpTutorialSeries\\_01_getting_started\\LaunchAndExecuteMoonSharp\\LaunchAndExecuteMoonSharp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

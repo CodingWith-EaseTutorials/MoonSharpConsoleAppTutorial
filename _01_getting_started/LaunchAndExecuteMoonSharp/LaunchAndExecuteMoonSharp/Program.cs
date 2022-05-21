@@ -5,6 +5,23 @@ namespace LaunchAndExecuteMoonSharp {
     internal class Program {
         static void Main(string[] args) {
             Console.WriteLine(rtnHelloWorld());
+            Console.WriteLine("Global sum: " + globalSum(16, 31));
+        }
+
+        static double globalSum(int a, int b) {
+            string scriptCode = @"
+                function sum(a, b)
+                   return a + b
+                end
+
+                return sum(globalA, globalB)
+            ";
+            Script script = new Script();
+            script.Globals["globalA"] = a;
+            script.Globals["globalB"] = b;
+
+            DynValue res = script.DoString(scriptCode);
+            return res.Number;
         }
 
         static String rtnHelloWorld() {
